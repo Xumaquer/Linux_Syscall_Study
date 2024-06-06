@@ -1,0 +1,22 @@
+# Explanation
+All unimplemented syscalls return -1 and set `errno` to `ENOSYS`, unimplemented syscalls are : 
+- `afs_syscall`
+- `break`
+- `fattach`
+- `fdetach`
+- `ftime`
+- `getmsg`
+- `getpmsg`
+- `gtty`
+- `isastream`
+- `lock`
+- `madvise1`
+- `mpx`
+- `prof`
+- `putmsg`
+- `putpmsg`
+- `security`
+- `stty`
+- `tuxcall`
+- `ulimit`
+- `vserver`

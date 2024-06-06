@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "syscall.h": "c",
+        "unistd_64.h": "c",
+        "mman.h": "c",
+        "unistd_x32.h": "c",
+        "sched.h": "c",
+        "stdlib.h": "c"
+    }
+}
